@@ -1,4 +1,4 @@
-# Wending-machine-
+# Vending-machine-
 #!/bin/python3
 
 import math
